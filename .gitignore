@@ -1,0 +1,5 @@
+jarvis_env/
+model/
+__pycache__/
+*.pyc
+memoria.json
