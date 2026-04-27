@@ -39,6 +39,6 @@ python main.py
 
 No incluye modelos de voz ni entorno virtual.
 
-aun siguen ena desarollo es un proyecto 
+aun sigue en desarollo es un proyecto 
 
 Leónidas Orellana
